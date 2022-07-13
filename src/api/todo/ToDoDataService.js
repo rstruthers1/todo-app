@@ -6,8 +6,6 @@ import { API_URL} from '../../Constants'
 
 class ToDoDataService {
   
-
-    
     retrieveAllTodos(name) {
         //console.log('executed service')
   
